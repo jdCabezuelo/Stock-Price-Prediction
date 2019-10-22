@@ -1,2 +1,2 @@
 # Stock-Price-Prediction
-Resources for predicting stock prices using machine learning and deep learning techniques
+Recursos para predecir los precios de las acciones utilizando técnicas de aprendizaje automático y aprendizaje profundo
